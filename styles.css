@@ -10,13 +10,15 @@ body {
 .container {
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 40px;
+    margin-right: 40px;
 }
 
 .profile-image {
     border-radius: 50%;
     max-height: 1000px;
     margin-right: 20px;
+    
 }
 
 .content {
@@ -30,7 +32,7 @@ body {
 }
 
 .big-text {
-    font-size: 1em; 
+    font-size: 3em; 
 }
 
 .redirect_discord {
@@ -39,7 +41,7 @@ body {
 }
 
 .small-text {
-    font-size: 0.5em
+    font-size: 1em
 
 
 
