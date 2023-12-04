@@ -42,6 +42,14 @@ body {
 
 .small-text {
     font-size: 1em
+}
 
+.profile-image,
+.redirect_discord {
+    transition: transform 0.3s ease;
+}
 
-
+.profile-image:hover,
+.redirect_discord:hover {
+    transform: scale(1.2);
+} 
